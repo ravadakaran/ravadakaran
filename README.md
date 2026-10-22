@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.gif" width="960" alt="Karan — Full Stack Developer. From first pixel to final deploy. Animated orbiting code graphic." />
+<img src="hero.gif" width="960" alt="Karan — Full Stack Developer. From first pixel to final deploy. Animated orbiting code graphic." />
 
 <br><br>
 
@@ -27,7 +27,7 @@ This GitHub is my workbench. Some repositories are experiments, some are lessons
 
 ### ⌁ 02 — Following the request
 
-<img src="assets/build-flow.gif" width="960" alt="An animated request travels from idea to interface, API, database, and deployment." />
+<img src="build-flow.gif" width="960" alt="An animated request travels from idea to interface, API, database, and deployment." />
 
 
 | Layer | What I care about |
