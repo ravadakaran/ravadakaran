@@ -1,12 +1,10 @@
 <div align="center">
 
-<p><code>IDEA → INTERFACE → API → DATABASE → DEPLOY</code></p>
+<img src="assets/hero.gif" width="960" alt="Karan — Full Stack Developer. From first pixel to final deploy. Animated orbiting code graphic." />
 
-<h1>Hey, I'm Karan.</h1>
+<br><br>
 
-<h3>I like building the whole thing.</h3>
-
-<p>Full Stack Web Developer · B.Tech Computer Science · SRM University</p>
+<p><b>Curiosity is the starting point. Building is how I follow it.</b></p>
 
 <a href="https://linkedin.com/in/ravada-karan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
 <a href="mailto:ravadakaran733@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
@@ -17,7 +15,7 @@
 
 ---
 
-### 01 / The person behind the commits
+### ◈ 01 — Behind the keyboard
 
 I like knowing what happens after you click a button. So I build the button, the API behind it, and the database that remembers it.
 
@@ -27,7 +25,10 @@ This GitHub is my workbench. Some repositories are experiments, some are lessons
 
 > The best part of learning something new? Finally having a use for that idea in your notes.
 
-### 02 / From pixels to persistence
+### ⌁ 02 — Following the request
+
+<img src="assets/build-flow.gif" width="960" alt="An animated request travels from idea to interface, API, database, and deployment." />
+
 
 | Layer | What I care about |
 | :--- | :--- |
@@ -36,7 +37,7 @@ This GitHub is my workbench. Some repositories are experiments, some are lessons
 | **The data** | Giving information a sensible home and making it useful to the application. |
 | **The delivery** | Taking an application beyond my editor and getting it running. |
 
-### 03 / My toolbox
+### ⌘ 03 — Tools on the workbench
 
 **Interfaces & interactions**
 
@@ -82,7 +83,7 @@ This GitHub is my workbench. Some repositories are experiments, some are lessons
 
 </details>
 
-### 04 / The commit trail
+### ↗ 04 — Footprints in the code
 
 <div align="center">
 
@@ -102,13 +103,13 @@ This GitHub is my workbench. Some repositories are experiments, some are lessons
 
 <div align="center">
 
-<h3>Got an idea you keep coming back to?</h3>
-<p>I'd like to hear it.</p>
+<h3>Every good build starts with a conversation.</h3>
+<p>Have an idea, a question, or an interesting problem? Say hello.</p>
 
 <a href="mailto:ravadakaran733@gmail.com">Drop me a message</a> · <a href="https://linkedin.com/in/ravada-karan">Connect on LinkedIn</a>
 
 <br><br>
 
-<code>Built with curiosity. Improved with every commit.</code>
+<code>end of README ≠ end of curiosity</code>
 
 </div>
