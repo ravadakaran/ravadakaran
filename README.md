@@ -1,114 +1,39 @@
 <div align="center">
 
-<p><code>IDEA → INTERFACE → API → DATABASE → DEPLOY</code></p>
+  <!-- Interactive / Cyberpunk Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,23&height=220&section=header&text=Ravada%20Karan&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Architect%20%7C%20Creative%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Header Banner" />
 
-<h1>Hey, I'm Karan.</h1>
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=%E2%9E%9C+echo+%22Transforming+abstract+ideas+into+production-ready+systems%22;%E2%9E%9C+const+passion+%3D+%5B'Scalable+Backends'%2C+'Fluid+Frontends'%5D%3B;%E2%9E%9C+B.Tech+CSE+%40+SRM+University;%E2%9E%9C+while(alive)+%7B+code()%3B+learn()%3B+ship()%3B+%7D" alt="Typing SVG" />
+  </a>
 
-<h3>I like building the whole thing.</h3>
+  <br/><br/>
 
-<p>Full Stack Web Developer · B.Tech Computer Science · SRM University</p>
-
-<a href="https://linkedin.com/in/ravada-karan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
-<a href="mailto:ravadakaran733@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
-<a href="https://instagram.com/raka_potato"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram" /></a>
-<a href="https://x.com/RaKa_088"><img src="https://img.shields.io/badge/Follow_on_X-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF" alt="X" /></a>
+  <!-- Floating Social Pill Badges -->
+  <a href="https://linkedin.com/in/ravada-karan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/RaKa_088"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="mailto:ravadakaran733@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/raka_potato"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
+
+<br/>
 
 ---
 
-### 01 / The person behind the commits
+### 💻 `karan.config.ts`
 
-I like knowing what happens after you click a button. So I build the button, the API behind it, and the database that remembers it.
-
-I'm a Computer Science student at **SRM University**, building web applications from the first rough idea to the final deployment. I enjoy the point where design and logic meet: an interface that feels natural, backed by code that makes sense.
-
-This GitHub is my workbench. Some repositories are experiments, some are lessons, and some are ideas I couldn't leave alone.
-
-> The best part of learning something new? Finally having a use for that idea in your notes.
-
-### 02 / From pixels to persistence
-
-| Layer | What I care about |
-| :--- | :--- |
-| **The interface** | Clear layouts, thoughtful interactions, and the small details that make an app feel right. |
-| **The logic** | APIs with a purpose, readable code, and understanding how the pieces fit together. |
-| **The data** | Giving information a sensible home and making it useful to the application. |
-| **The delivery** | Taking an application beyond my editor and getting it running. |
-
-### 03 / My toolbox
-
-**Interfaces & interactions**
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
-
-**Servers & services**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-**Data & deployment**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=A5B4FC)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logoColor=FF9900)
-
-<details>
-<summary><b>Open the rest of the toolbox ↗</b></summary>
-
-<br>
-
-| Area | Technologies & tools |
-| :--- | :--- |
-| Languages | C, C++, C#, Java, PHP, Rust, Elixir, HTML, CSS |
-| Web & mobile | React Native, React Query, React Router, React Hook Form, Vite, jQuery |
-| Backend | NestJS, Flask, Django REST Framework, .NET, Apache |
-| Data | Dgraph, Oracle |
-| Machine learning & scientific computing | PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy, Pandas, SciPy, Anaconda, CUDA |
-| Data visualization | Matplotlib, Plotly |
-| Design & creative tools | Figma, Blender, Photoshop, Premiere Pro, Canva, Adobe tools |
-| Development & infrastructure | GitHub, GitLab, NPM, Nodemon, Netlify, PowerShell, Windows Terminal, Cisco |
-| Beyond the browser | Raspberry Pi, Unreal Engine |
-
-</details>
-
-### 04 / The commit trail
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ravadakaran&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" alt="Karan's GitHub statistics" width="495" />
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ravadakaran&theme=github-dark-blue&hide_border=true" alt="Karan's GitHub contribution streak" width="495" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravadakaran&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages in Karan's public repositories" width="350" />
-
-</div>
-
----
-
-<div align="center">
-
-<h3>Got an idea you keep coming back to?</h3>
-<p>I'd like to hear it.</p>
-
-<a href="mailto:ravadakaran733@gmail.com">Drop me a message</a> · <a href="https://linkedin.com/in/ravada-karan">Connect on LinkedIn</a>
-
-<br><br>
-
-<code>Built with curiosity. Improved with every commit.</code>
-
-</div>
+```typescript
+interface DeveloperProfile {
+  name: "Ravada Karan";
+  title: "Full Stack Engineer & Creative Builder";
+  education: "B.Tech in Computer Science & Engineering @ SRM University";
+  coreFocus: ["Full-Stack Architecture", "High-Throughput APIs", "Creative UI/3D"];
+  currentStatus: "Building resilient web products & exploring intelligent systems 🚀";
+  traits: [
+    "Clean-code obsessive",
+    "Performance fine-tuner",
+    "Coffee ➔ Code converter ☕"
+  ];
+}
