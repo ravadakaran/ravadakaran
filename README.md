@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- Minimalist Dynamic Glowing Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&reversal=false&text=RAVADA%20KARAN&fontSize=50&fontAlignY=42&fontAlign=50&stroke=00F5D4&strokeWidth=1&desc=%E2%88%9E%20CREATIVE%20ENGINEER%20%C3%97%20FULL%20STACK%20ARCHITECT%20%E2%88%9E&descAlignY=64&descSize=13&descAlign=50" width="100%" alt="Header" />
+  <!-- Kinetic Glow Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24&height=220&section=header&text=RAVADA%20KARAN&fontSize=52&fontAlignY=38&animation=twinkling&desc=%E2%88%9E%20Design%20Technologist%20%7C%20Creative%20Engineer%20%7C%20Full%20Stack%20%E2%88%9E&descAlignY=58&descSize=15" width="100%" alt="Kinetic Header" />
 
-  <!-- Monospaced Viewport Terminal -->
+  <!-- Live Typing Terminal Screen -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&duration=2600&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&lines=%E2%86%92+Designing+at+the+intersection+of+fluid+UI+and+bulletproof+backend.;%E2%86%92+Obsessed+with+60FPS+interactions%2C+clean+DOM+hierarchies+%26+type-safety.;%E2%86%92+B.Tech+CSE+%40+SRM+University+%E2%80%A2+Building+real-world+experiences.;%E2%86%92+const+canvas+%3D+new+Reality(%7B+creative%3A+true%2C+scalable%3A+true+%7D)%3B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=680&lines=%E2%9E%9C+Bridging+the+chasm+between+Figma+frames+and+production+DOM;%E2%9E%9C+Crafting+fluid+60fps+micro-interactions+%26+WebGL+canvases;%E2%9E%9C+Engineering+bulletproof+APIs+and+distributed+engines;%E2%9E%9C+while(alive)+%7B+conceive()%3B+design()%3B+ship()%3B+%7D" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Clean Floating Minimal Badges -->
+  <!-- High-Contrast Glassmorphic Socials -->
   <a href="https://linkedin.com/in/ravada-karan"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://x.com/RaKa_088"><img src="https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:ravadakaran733@gmail.com"><img src="https://img.shields.io/badge/DISPATCH%20MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
@@ -22,28 +22,20 @@
 
 ---
 
-### 🧬 Design Engineering Manifesto
+### 🕹️ `workspace::runtime_specs.ts`
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```tsx
-/**
- * @file: profile.interface.ts
- * @author: Ravada Karan
- */
-
-interface DesignTechnologist {
-  craft: {
-    visuals: "Figma" | "Blender 3D" | "Design Tokens" | "Fluid Micro-Interactions";
-    runtime: "React" | "Next.js 14" | "Three.js" | "TailwindCSS";
-    engine:  "Node.js" | "NestJS" | "FastAPI" | "PostgreSQL" | "Docker";
-  };
-  principles: [
-    "Form follows function, but aesthetic earns trust.",
-    "Zero layout shifts. 60 FPS micro-animations.",
-    "Resilient distributed backends behind elegant glass UIs."
-  ];
-  currentR_and_D: "Realtime rendering pipelines & generative AI workflows";
-}
+```typescript
+const profile: DesignEngineer = {
+  identity: "Ravada Karan",
+  base: "SRM University, Kattankulathur",
+  designPhilosophy: {
+    visuals: "Zero layout shifts, deliberate whitespace, physics-based springs",
+    architecture: "Event-driven, modular backends with resilient microservices",
+    sweetSpot: "Where Figma design tokens seamlessly compile into code"
+  },
+  activeCanvases: [
+    "Full-stack reactive web applications",
+    "WebGL / Three.js 3D viewport experiments",
+    "Computer Vision & intelligent automation pipelines"
+  ]
+};
