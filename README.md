@@ -1,20 +1,20 @@
 <div align="center">
 
-  <!-- Interactive / Cyberpunk Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,23&height=220&section=header&text=Ravada%20Karan&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Architect%20%7C%20Creative%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- Minimalist Dynamic Glowing Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&reversal=false&text=RAVADA%20KARAN&fontSize=50&fontAlignY=42&fontAlign=50&stroke=00F5D4&strokeWidth=1&desc=%E2%88%9E%20CREATIVE%20ENGINEER%20%C3%97%20FULL%20STACK%20ARCHITECT%20%E2%88%9E&descAlignY=64&descSize=13&descAlign=50" width="100%" alt="Header" />
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Monospaced Viewport Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=%E2%9E%9C+echo+%22Transforming+abstract+ideas+into+production-ready+systems%22;%E2%9E%9C+const+passion+%3D+%5B'Scalable+Backends'%2C+'Fluid+Frontends'%5D%3B;%E2%9E%9C+B.Tech+CSE+%40+SRM+University;%E2%9E%9C+while(alive)+%7B+code()%3B+learn()%3B+ship()%3B+%7D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&duration=2600&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&lines=%E2%86%92+Designing+at+the+intersection+of+fluid+UI+and+bulletproof+backend.;%E2%86%92+Obsessed+with+60FPS+interactions%2C+clean+DOM+hierarchies+%26+type-safety.;%E2%86%92+B.Tech+CSE+%40+SRM+University+%E2%80%A2+Building+real-world+experiences.;%E2%86%92+const+canvas+%3D+new+Reality(%7B+creative%3A+true%2C+scalable%3A+true+%7D)%3B" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Floating Social Pill Badges -->
-  <a href="https://linkedin.com/in/ravada-karan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://x.com/RaKa_088"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-  <a href="mailto:ravadakaran733@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://instagram.com/raka_potato"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- Clean Floating Minimal Badges -->
+  <a href="https://linkedin.com/in/ravada-karan"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/RaKa_088"><img src="https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:ravadakaran733@gmail.com"><img src="https://img.shields.io/badge/DISPATCH%20MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/raka_potato"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
@@ -22,18 +22,28 @@
 
 ---
 
-### 💻 `karan.config.ts`
+### 🧬 Design Engineering Manifesto
 
-```typescript
-interface DeveloperProfile {
-  name: "Ravada Karan";
-  title: "Full Stack Engineer & Creative Builder";
-  education: "B.Tech in Computer Science & Engineering @ SRM University";
-  coreFocus: ["Full-Stack Architecture", "High-Throughput APIs", "Creative UI/3D"];
-  currentStatus: "Building resilient web products & exploring intelligent systems 🚀";
-  traits: [
-    "Clean-code obsessive",
-    "Performance fine-tuner",
-    "Coffee ➔ Code converter ☕"
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```tsx
+/**
+ * @file: profile.interface.ts
+ * @author: Ravada Karan
+ */
+
+interface DesignTechnologist {
+  craft: {
+    visuals: "Figma" | "Blender 3D" | "Design Tokens" | "Fluid Micro-Interactions";
+    runtime: "React" | "Next.js 14" | "Three.js" | "TailwindCSS";
+    engine:  "Node.js" | "NestJS" | "FastAPI" | "PostgreSQL" | "Docker";
+  };
+  principles: [
+    "Form follows function, but aesthetic earns trust.",
+    "Zero layout shifts. 60 FPS micro-animations.",
+    "Resilient distributed backends behind elegant glass UIs."
   ];
+  currentR_and_D: "Realtime rendering pipelines & generative AI workflows";
 }
